@@ -1,0 +1,2 @@
+# httpRequestExample
+AJAX request
